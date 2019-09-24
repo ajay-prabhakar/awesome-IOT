@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/chromicle/IOT.svg?color=light%20green)  ![Github coverage](https://img.shields.io/badge/Documentation-100%25-blue.svg) ![IOT](https://img.shields.io/badge/Beginner's-Guide-orange.svg)
+
+<td><img src="https://user-images.githubusercontent.com/48018942/65481027-70873e80-deb1-11e9-9f7a-c384d7c3cf7a.jpg" height = "150" width="150"></td>
+
 # IOT
 THE DEFINITION
 
