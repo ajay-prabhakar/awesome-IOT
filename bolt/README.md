@@ -13,9 +13,10 @@ GPIO:- General Purpose Input Output. <br />
 ### Bolt wifi module
 <td><img src="https://user-images.githubusercontent.com/48018942/65624545-c0682180-dfe7-11e9-9b31-30db80da2231.PNG" height = "300" width="300"></td>
 
-Power ON the Bolt device by inserting the Micro USB cable into the USB port provided on the Bolt and connecting the other end of the cable to the Android charger or to your laptop
 
-Once you have powered ON the Bolt device, blue LED on the Bolt will begin to blink slowly and the green LED will be OFF.
+**step 1:** Power ON the Bolt device by inserting the Micro USB cable into the USB port provided on the Bolt and connecting the other end of the cable to the Android charger or to your laptop, Once you have powered ON the Bolt device, blue LED on the Bolt will begin to blink slowly and the green LED will be OFF.
 
-When the blue LED blinks slowly, it means that the Bolt is now transmitting its own WiFi hotspot network and is ready to be setup via the Bolt IoT App on your phone.
+**step 2** When the blue LED blinks slowly, it means that the Bolt is now transmitting its own WiFi hotspot network and is ready to be setup via the Bolt IoT App on your phone If the Bolt has been detected by the App, The blue LED on the Bolt will now blink fast. This means that it is under the setup process
+
+**step 3** Select the WiFi network to which Bolt has to be connected. You can click on the WiFi name to choose the WiFi network to connect to. If everything has gone according to plan, the Bolt device will now restart automatically. The blue and green LED on the Bolt device will now be glowing steadily, If the Bolt was able to connect to the WiFi network and is connected to the cloud, You can see your device is online in bolt cloud account
 
