@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Javascript Interval</title>
+   </head>
+   <body>
+      <h1>Javascript Interval function</h1>
+      <button onclick="start_timer()">Start Timer</button>
+      <br>
+      <div id="counter"></div>
+   </body>
+   <script>
+      var counter = 0;
+      function start_timer(){
+        setInterval(increment_counter, 1000);
+      }
+      
+        function  increment_counter() {
+             counter_element = document.getElementById("counter");
+        counter_element.innerHTML = counter;
+        counter = counter + 1;
+      }
+   </script>
+</html>
