@@ -17,7 +17,7 @@ def get_sensor_value_from_pin(pin):
             print("This is the response->", data)
             return -999
         sensor_value = int(data["value"])
-        return 555
+        return sensor_value
     except Exception as e:
         print("Something went wrong when returning the sensor value")
         print(e)
