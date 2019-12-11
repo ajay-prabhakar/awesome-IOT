@@ -1,9 +1,5 @@
 ## **EEPROM Library V2.0** for Arduino
 
-**Written by:** _Christopher Andrews_.
-
-This copy is slightly modified, for use with Teensy.
-
 ### **What is the EEPROM library.**
 
 Th EEPROM library provides an easy to use interface to interact with the internal non-volatile storage found in AVR based Arduino boards. This library will work on many AVR devices like ATtiny and ATmega chips.
